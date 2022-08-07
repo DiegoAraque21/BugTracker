@@ -1,0 +1,31 @@
+.navbar {
+  width: 100%;
+  padding: 30px 0;
+  box-sizing: border-box;
+}
+
+.navbar ul {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.navbar .nameApp {
+  font-weight: bold;
+  color: var(--heading-color);
+  letter-spacing: 1px;
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+}
+
+.nameApp h2 {
+  color: var(--primary-color);
+}
+
+.navbar a {
+  color: #333;
+  text-decoration: none;
+  margin-right: 20px;
+}

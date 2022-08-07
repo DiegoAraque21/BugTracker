@@ -1,6 +1,6 @@
 # Link to this app
 
-[APP](https://bug-tracker-b6199.web.app/login)
+[APP](https://bug-tracker-b6199.web.app)
 
 # Getting Started with Create React App
 

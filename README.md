@@ -1,6 +1,6 @@
 # Link to this app
 
-bug-tracker-b6199.web.app
+<a href="bug-tracker-b6199.web.app">App</a>
 
 # Getting Started with Create React App
 

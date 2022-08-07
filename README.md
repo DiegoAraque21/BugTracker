@@ -1,10 +1,10 @@
 # Link to this app
 
-[APP](bug-tracker-b6199.web.app)
+[APP](https://bug-tracker-b6199.web.app/login)
 
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://bug-tracker-b6199.web.app/login).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
